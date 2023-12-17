@@ -1,1 +1,1 @@
-this is a test}<script>alert(document.domain)</script>
+this is a test"]}}}</script><script>alert(document.domain)</script>
